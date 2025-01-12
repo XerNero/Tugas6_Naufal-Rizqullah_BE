@@ -29,3 +29,5 @@ setupSwagger(app);
 app.listen(PORT, HOST, () => {
   console.log(`Server is running on http://${HOST}:${PORT}`);
 });
+
+
